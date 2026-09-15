@@ -1,0 +1,182 @@
+[
+  {
+    "name": "orange",
+    "source": "Assets/cat/ChatGPT Image Sep 14, 2026, 12_33_03 PM.png",
+    "crop": {
+      "left": 128,
+      "top": 0,
+      "width": 963,
+      "height": 1273
+    },
+    "maxDimension": 192,
+    "haloCleanup": false
+  },
+  {
+    "name": "calico",
+    "source": "Assets/cat/ChatGPT Image Sep 14, 2026, 12_33_13 PM.png",
+    "crop": {
+      "left": 147,
+      "top": 25,
+      "width": 969,
+      "height": 1216
+    },
+    "maxDimension": 192,
+    "haloCleanup": false
+  },
+  {
+    "name": "cream",
+    "source": "Assets/cat/ChatGPT Image Sep 14, 2026, 12_33_34 PM.png",
+    "crop": {
+      "left": 158,
+      "top": 0,
+      "width": 990,
+      "height": 1278
+    },
+    "maxDimension": 192,
+    "haloCleanup": false
+  },
+  {
+    "name": "mushroom",
+    "source": "Assets/enemy/ChatGPT Image Sep 14, 2026, 12_41_16 PM.png",
+    "crop": {
+      "left": 182,
+      "top": 215,
+      "width": 925,
+      "height": 855
+    },
+    "maxDimension": 192,
+    "haloCleanup": false
+  },
+  {
+    "name": "sprout",
+    "source": "Assets/enemy/ChatGPT Image Sep 14, 2026, 12_41_23 PM.png",
+    "crop": {
+      "left": 263,
+      "top": 101,
+      "width": 746,
+      "height": 1075
+    },
+    "maxDimension": 192,
+    "haloCleanup": false
+  },
+  {
+    "name": "acorn",
+    "source": "Assets/enemy/ChatGPT Image Sep 14, 2026, 12_41_33 PM.png",
+    "crop": {
+      "left": 128,
+      "top": 63,
+      "width": 1077,
+      "height": 1040
+    },
+    "maxDimension": 192,
+    "haloCleanup": false
+  },
+  {
+    "name": "boss",
+    "source": "Assets/boss/ChatGPT Image Sep 14, 2026, 12_43_29 PM.png",
+    "crop": {
+      "left": 24,
+      "top": 33,
+      "width": 1274,
+      "height": 1142
+    },
+    "maxDimension": 384,
+    "haloCleanup": false
+  },
+  {
+    "name": "tree",
+    "source": "Assets/scenery/ChatGPT Image Sep 14, 2026, 12_49_01 PM.png",
+    "crop": {
+      "left": 111,
+      "top": 57,
+      "width": 1089,
+      "height": 1081
+    },
+    "maxDimension": 384,
+    "haloCleanup": false
+  },
+  {
+    "name": "rock",
+    "source": "Assets/scenery/ChatGPT Image Sep 14, 2026, 12_57_05 PM.png",
+    "crop": {
+      "left": 213,
+      "top": 182,
+      "width": 975,
+      "height": 791
+    },
+    "maxDimension": 256,
+    "haloCleanup": false
+  },
+  {
+    "name": "small-rock",
+    "source": "Assets/scenery/ChatGPT Image Sep 14, 2026, 12_57_15 PM.png",
+    "crop": {
+      "left": 399,
+      "top": 292,
+      "width": 734,
+      "height": 441
+    },
+    "maxDimension": 256,
+    "haloCleanup": true
+  },
+  {
+    "name": "pine",
+    "source": "Assets/scenery/ChatGPT Image Sep 14, 2026, 12_57_24 PM.png",
+    "crop": {
+      "left": 186,
+      "top": 122,
+      "width": 784,
+      "height": 1129
+    },
+    "maxDimension": 384,
+    "haloCleanup": false
+  },
+  {
+    "name": "bush",
+    "source": "Assets/scenery/ChatGPT Image Sep 14, 2026, 12_57_33 PM.png",
+    "crop": {
+      "left": 164,
+      "top": 160,
+      "width": 1211,
+      "height": 705
+    },
+    "maxDimension": 256,
+    "haloCleanup": true
+  },
+  {
+    "name": "wood",
+    "source": "Assets/weapon/ChatGPT Image Sep 14, 2026, 12_37_53 PM.png",
+    "crop": {
+      "left": 72,
+      "top": 281,
+      "width": 1306,
+      "height": 518
+    },
+    "maxDimension": 192,
+    "haloCleanup": false
+  },
+  {
+    "name": "coral",
+    "source": "Assets/weapon/ChatGPT Image Sep 14, 2026, 12_38_02 PM.png",
+    "crop": {
+      "left": 67,
+      "top": 191,
+      "width": 1141,
+      "height": 897
+    },
+    "maxDimension": 192,
+    "haloCleanup": false
+  },
+  {
+    "name": "fish",
+    "source": "Assets/weapon/ChatGPT Image Sep 14, 2026, 12_40_10 PM.png",
+    "crop": {
+      "left": 221,
+      "top": 102,
+      "width": 1166,
+      "height": 842
+    },
+    "maxDimension": 192,
+    "haloCleanup": true
+  }
+]

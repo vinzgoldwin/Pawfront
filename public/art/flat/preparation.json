@@ -1,0 +1,1682 @@
+[
+  {
+    "name": "orange",
+    "source": "public/art/flat/orange.svg",
+    "width": 145,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "calico",
+    "source": "public/art/flat/calico.svg",
+    "width": 153,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "cream",
+    "source": "public/art/flat/cream.svg",
+    "width": 149,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "orange-body",
+    "source": "public/art/flat/orange-body.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "orange-head",
+    "source": "public/art/flat/orange-head.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "orange-ear-left",
+    "source": "public/art/flat/orange-ear-left.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "orange-ear-right",
+    "source": "public/art/flat/orange-ear-right.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "orange-tail",
+    "source": "public/art/flat/orange-tail.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "orange-body-walk0",
+    "source": "public/art/flat/orange-body-walk0.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "orange-body-walk1",
+    "source": "public/art/flat/orange-body-walk1.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "orange-body-walk2",
+    "source": "public/art/flat/orange-body-walk2.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "orange-body-walk3",
+    "source": "public/art/flat/orange-body-walk3.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "orange-body-walk4",
+    "source": "public/art/flat/orange-body-walk4.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "orange-body-walk5",
+    "source": "public/art/flat/orange-body-walk5.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "orange-body-walk6",
+    "source": "public/art/flat/orange-body-walk6.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "orange-body-walk7",
+    "source": "public/art/flat/orange-body-walk7.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "calico-body",
+    "source": "public/art/flat/calico-body.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "calico-head",
+    "source": "public/art/flat/calico-head.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "calico-ear-left",
+    "source": "public/art/flat/calico-ear-left.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "calico-ear-right",
+    "source": "public/art/flat/calico-ear-right.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "calico-tail",
+    "source": "public/art/flat/calico-tail.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "calico-body-walk0",
+    "source": "public/art/flat/calico-body-walk0.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "calico-body-walk1",
+    "source": "public/art/flat/calico-body-walk1.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "calico-body-walk2",
+    "source": "public/art/flat/calico-body-walk2.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "calico-body-walk3",
+    "source": "public/art/flat/calico-body-walk3.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "calico-body-walk4",
+    "source": "public/art/flat/calico-body-walk4.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "calico-body-walk5",
+    "source": "public/art/flat/calico-body-walk5.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "calico-body-walk6",
+    "source": "public/art/flat/calico-body-walk6.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "calico-body-walk7",
+    "source": "public/art/flat/calico-body-walk7.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "cream-body",
+    "source": "public/art/flat/cream-body.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "cream-head",
+    "source": "public/art/flat/cream-head.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "cream-ear-left",
+    "source": "public/art/flat/cream-ear-left.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "cream-ear-right",
+    "source": "public/art/flat/cream-ear-right.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "cream-tail",
+    "source": "public/art/flat/cream-tail.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "cream-body-walk0",
+    "source": "public/art/flat/cream-body-walk0.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "cream-body-walk1",
+    "source": "public/art/flat/cream-body-walk1.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "cream-body-walk2",
+    "source": "public/art/flat/cream-body-walk2.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "cream-body-walk3",
+    "source": "public/art/flat/cream-body-walk3.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "cream-body-walk4",
+    "source": "public/art/flat/cream-body-walk4.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "cream-body-walk5",
+    "source": "public/art/flat/cream-body-walk5.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "cream-body-walk6",
+    "source": "public/art/flat/cream-body-walk6.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "cream-body-walk7",
+    "source": "public/art/flat/cream-body-walk7.svg",
+    "width": 150,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom",
+    "source": "public/art/flat/mushroom.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout",
+    "source": "public/art/flat/sprout.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn",
+    "source": "public/art/flat/acorn.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss",
+    "source": "public/art/flat/boss.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "wood",
+    "source": "public/art/flat/wood.svg",
+    "width": 192,
+    "height": 76,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "coral",
+    "source": "public/art/flat/coral.svg",
+    "width": 192,
+    "height": 151,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "fish",
+    "source": "public/art/flat/fish.svg",
+    "width": 192,
+    "height": 139,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "tree",
+    "source": "public/art/flat/tree.svg",
+    "width": 384,
+    "height": 381,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "pine",
+    "source": "public/art/flat/pine.svg",
+    "width": 267,
+    "height": 384,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "rock",
+    "source": "public/art/flat/rock.svg",
+    "width": 256,
+    "height": 208,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "small-rock",
+    "source": "public/art/flat/small-rock.svg",
+    "width": 256,
+    "height": 154,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "bush",
+    "source": "public/art/flat/bush.svg",
+    "width": 256,
+    "height": 149,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-front",
+    "source": "public/art/flat/mushroom-front.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-back",
+    "source": "public/art/flat/mushroom-back.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-right",
+    "source": "public/art/flat/mushroom-right.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-left",
+    "source": "public/art/flat/mushroom-left.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-front-walk0",
+    "source": "public/art/flat/mushroom-front-walk0.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-back-walk0",
+    "source": "public/art/flat/mushroom-back-walk0.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-right-walk0",
+    "source": "public/art/flat/mushroom-right-walk0.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-left-walk0",
+    "source": "public/art/flat/mushroom-left-walk0.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-front-walk1",
+    "source": "public/art/flat/mushroom-front-walk1.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-back-walk1",
+    "source": "public/art/flat/mushroom-back-walk1.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-right-walk1",
+    "source": "public/art/flat/mushroom-right-walk1.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-left-walk1",
+    "source": "public/art/flat/mushroom-left-walk1.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-front-walk2",
+    "source": "public/art/flat/mushroom-front-walk2.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-back-walk2",
+    "source": "public/art/flat/mushroom-back-walk2.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-right-walk2",
+    "source": "public/art/flat/mushroom-right-walk2.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-left-walk2",
+    "source": "public/art/flat/mushroom-left-walk2.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-front-walk3",
+    "source": "public/art/flat/mushroom-front-walk3.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-back-walk3",
+    "source": "public/art/flat/mushroom-back-walk3.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-right-walk3",
+    "source": "public/art/flat/mushroom-right-walk3.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-left-walk3",
+    "source": "public/art/flat/mushroom-left-walk3.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-front-walk4",
+    "source": "public/art/flat/mushroom-front-walk4.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-back-walk4",
+    "source": "public/art/flat/mushroom-back-walk4.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-right-walk4",
+    "source": "public/art/flat/mushroom-right-walk4.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-left-walk4",
+    "source": "public/art/flat/mushroom-left-walk4.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-front-walk5",
+    "source": "public/art/flat/mushroom-front-walk5.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-back-walk5",
+    "source": "public/art/flat/mushroom-back-walk5.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-right-walk5",
+    "source": "public/art/flat/mushroom-right-walk5.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-left-walk5",
+    "source": "public/art/flat/mushroom-left-walk5.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-front-walk6",
+    "source": "public/art/flat/mushroom-front-walk6.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-back-walk6",
+    "source": "public/art/flat/mushroom-back-walk6.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-right-walk6",
+    "source": "public/art/flat/mushroom-right-walk6.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-left-walk6",
+    "source": "public/art/flat/mushroom-left-walk6.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-front-walk7",
+    "source": "public/art/flat/mushroom-front-walk7.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-back-walk7",
+    "source": "public/art/flat/mushroom-back-walk7.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-right-walk7",
+    "source": "public/art/flat/mushroom-right-walk7.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "mushroom-left-walk7",
+    "source": "public/art/flat/mushroom-left-walk7.svg",
+    "width": 192,
+    "height": 177,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-front",
+    "source": "public/art/flat/sprout-front.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-back",
+    "source": "public/art/flat/sprout-back.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-right",
+    "source": "public/art/flat/sprout-right.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-left",
+    "source": "public/art/flat/sprout-left.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-front-walk0",
+    "source": "public/art/flat/sprout-front-walk0.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-back-walk0",
+    "source": "public/art/flat/sprout-back-walk0.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-right-walk0",
+    "source": "public/art/flat/sprout-right-walk0.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-left-walk0",
+    "source": "public/art/flat/sprout-left-walk0.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-front-walk1",
+    "source": "public/art/flat/sprout-front-walk1.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-back-walk1",
+    "source": "public/art/flat/sprout-back-walk1.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-right-walk1",
+    "source": "public/art/flat/sprout-right-walk1.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-left-walk1",
+    "source": "public/art/flat/sprout-left-walk1.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-front-walk2",
+    "source": "public/art/flat/sprout-front-walk2.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-back-walk2",
+    "source": "public/art/flat/sprout-back-walk2.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-right-walk2",
+    "source": "public/art/flat/sprout-right-walk2.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-left-walk2",
+    "source": "public/art/flat/sprout-left-walk2.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-front-walk3",
+    "source": "public/art/flat/sprout-front-walk3.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-back-walk3",
+    "source": "public/art/flat/sprout-back-walk3.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-right-walk3",
+    "source": "public/art/flat/sprout-right-walk3.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-left-walk3",
+    "source": "public/art/flat/sprout-left-walk3.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-front-walk4",
+    "source": "public/art/flat/sprout-front-walk4.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-back-walk4",
+    "source": "public/art/flat/sprout-back-walk4.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-right-walk4",
+    "source": "public/art/flat/sprout-right-walk4.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-left-walk4",
+    "source": "public/art/flat/sprout-left-walk4.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-front-walk5",
+    "source": "public/art/flat/sprout-front-walk5.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-back-walk5",
+    "source": "public/art/flat/sprout-back-walk5.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-right-walk5",
+    "source": "public/art/flat/sprout-right-walk5.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-left-walk5",
+    "source": "public/art/flat/sprout-left-walk5.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-front-walk6",
+    "source": "public/art/flat/sprout-front-walk6.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-back-walk6",
+    "source": "public/art/flat/sprout-back-walk6.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-right-walk6",
+    "source": "public/art/flat/sprout-right-walk6.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-left-walk6",
+    "source": "public/art/flat/sprout-left-walk6.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-front-walk7",
+    "source": "public/art/flat/sprout-front-walk7.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-back-walk7",
+    "source": "public/art/flat/sprout-back-walk7.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-right-walk7",
+    "source": "public/art/flat/sprout-right-walk7.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "sprout-left-walk7",
+    "source": "public/art/flat/sprout-left-walk7.svg",
+    "width": 133,
+    "height": 192,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-front",
+    "source": "public/art/flat/acorn-front.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-back",
+    "source": "public/art/flat/acorn-back.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-right",
+    "source": "public/art/flat/acorn-right.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-left",
+    "source": "public/art/flat/acorn-left.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-front-walk0",
+    "source": "public/art/flat/acorn-front-walk0.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-back-walk0",
+    "source": "public/art/flat/acorn-back-walk0.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-right-walk0",
+    "source": "public/art/flat/acorn-right-walk0.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-left-walk0",
+    "source": "public/art/flat/acorn-left-walk0.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-front-walk1",
+    "source": "public/art/flat/acorn-front-walk1.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-back-walk1",
+    "source": "public/art/flat/acorn-back-walk1.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-right-walk1",
+    "source": "public/art/flat/acorn-right-walk1.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-left-walk1",
+    "source": "public/art/flat/acorn-left-walk1.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-front-walk2",
+    "source": "public/art/flat/acorn-front-walk2.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-back-walk2",
+    "source": "public/art/flat/acorn-back-walk2.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-right-walk2",
+    "source": "public/art/flat/acorn-right-walk2.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-left-walk2",
+    "source": "public/art/flat/acorn-left-walk2.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-front-walk3",
+    "source": "public/art/flat/acorn-front-walk3.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-back-walk3",
+    "source": "public/art/flat/acorn-back-walk3.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-right-walk3",
+    "source": "public/art/flat/acorn-right-walk3.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-left-walk3",
+    "source": "public/art/flat/acorn-left-walk3.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-front-walk4",
+    "source": "public/art/flat/acorn-front-walk4.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-back-walk4",
+    "source": "public/art/flat/acorn-back-walk4.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-right-walk4",
+    "source": "public/art/flat/acorn-right-walk4.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-left-walk4",
+    "source": "public/art/flat/acorn-left-walk4.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-front-walk5",
+    "source": "public/art/flat/acorn-front-walk5.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-back-walk5",
+    "source": "public/art/flat/acorn-back-walk5.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-right-walk5",
+    "source": "public/art/flat/acorn-right-walk5.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-left-walk5",
+    "source": "public/art/flat/acorn-left-walk5.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-front-walk6",
+    "source": "public/art/flat/acorn-front-walk6.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-back-walk6",
+    "source": "public/art/flat/acorn-back-walk6.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-right-walk6",
+    "source": "public/art/flat/acorn-right-walk6.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-left-walk6",
+    "source": "public/art/flat/acorn-left-walk6.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-front-walk7",
+    "source": "public/art/flat/acorn-front-walk7.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-back-walk7",
+    "source": "public/art/flat/acorn-back-walk7.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-right-walk7",
+    "source": "public/art/flat/acorn-right-walk7.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "acorn-left-walk7",
+    "source": "public/art/flat/acorn-left-walk7.svg",
+    "width": 192,
+    "height": 185,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-front",
+    "source": "public/art/flat/boss-front.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-back",
+    "source": "public/art/flat/boss-back.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-right",
+    "source": "public/art/flat/boss-right.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-left",
+    "source": "public/art/flat/boss-left.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-front-walk0",
+    "source": "public/art/flat/boss-front-walk0.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-back-walk0",
+    "source": "public/art/flat/boss-back-walk0.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-right-walk0",
+    "source": "public/art/flat/boss-right-walk0.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-left-walk0",
+    "source": "public/art/flat/boss-left-walk0.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-front-walk1",
+    "source": "public/art/flat/boss-front-walk1.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-back-walk1",
+    "source": "public/art/flat/boss-back-walk1.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-right-walk1",
+    "source": "public/art/flat/boss-right-walk1.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-left-walk1",
+    "source": "public/art/flat/boss-left-walk1.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-front-walk2",
+    "source": "public/art/flat/boss-front-walk2.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-back-walk2",
+    "source": "public/art/flat/boss-back-walk2.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-right-walk2",
+    "source": "public/art/flat/boss-right-walk2.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-left-walk2",
+    "source": "public/art/flat/boss-left-walk2.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-front-walk3",
+    "source": "public/art/flat/boss-front-walk3.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-back-walk3",
+    "source": "public/art/flat/boss-back-walk3.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-right-walk3",
+    "source": "public/art/flat/boss-right-walk3.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-left-walk3",
+    "source": "public/art/flat/boss-left-walk3.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-front-walk4",
+    "source": "public/art/flat/boss-front-walk4.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-back-walk4",
+    "source": "public/art/flat/boss-back-walk4.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-right-walk4",
+    "source": "public/art/flat/boss-right-walk4.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-left-walk4",
+    "source": "public/art/flat/boss-left-walk4.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-front-walk5",
+    "source": "public/art/flat/boss-front-walk5.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-back-walk5",
+    "source": "public/art/flat/boss-back-walk5.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-right-walk5",
+    "source": "public/art/flat/boss-right-walk5.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-left-walk5",
+    "source": "public/art/flat/boss-left-walk5.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-front-walk6",
+    "source": "public/art/flat/boss-front-walk6.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-back-walk6",
+    "source": "public/art/flat/boss-back-walk6.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-right-walk6",
+    "source": "public/art/flat/boss-right-walk6.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-left-walk6",
+    "source": "public/art/flat/boss-left-walk6.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-front-walk7",
+    "source": "public/art/flat/boss-front-walk7.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-back-walk7",
+    "source": "public/art/flat/boss-back-walk7.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-right-walk7",
+    "source": "public/art/flat/boss-right-walk7.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "boss-left-walk7",
+    "source": "public/art/flat/boss-left-walk7.svg",
+    "width": 384,
+    "height": 344,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "wood-right",
+    "source": "public/art/flat/wood-right.svg",
+    "width": 192,
+    "height": 76,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "wood-left",
+    "source": "public/art/flat/wood-left.svg",
+    "width": 192,
+    "height": 76,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "wood-front",
+    "source": "public/art/flat/wood-front.svg",
+    "width": 192,
+    "height": 76,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "wood-back",
+    "source": "public/art/flat/wood-back.svg",
+    "width": 192,
+    "height": 76,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "coral-right",
+    "source": "public/art/flat/coral-right.svg",
+    "width": 192,
+    "height": 151,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "coral-left",
+    "source": "public/art/flat/coral-left.svg",
+    "width": 192,
+    "height": 151,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "coral-front",
+    "source": "public/art/flat/coral-front.svg",
+    "width": 192,
+    "height": 151,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "coral-back",
+    "source": "public/art/flat/coral-back.svg",
+    "width": 192,
+    "height": 151,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "fish-right",
+    "source": "public/art/flat/fish-right.svg",
+    "width": 192,
+    "height": 139,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "fish-left",
+    "source": "public/art/flat/fish-left.svg",
+    "width": 192,
+    "height": 139,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "fish-front",
+    "source": "public/art/flat/fish-front.svg",
+    "width": 192,
+    "height": 139,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  },
+  {
+    "name": "fish-back",
+    "source": "public/art/flat/fish-back.svg",
+    "width": 192,
+    "height": 139,
+    "style": "flat vector redraw",
+    "originalPreserved": true
+  }
+]
